@@ -18,13 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joaogarin/angular2-electron.git"
+    "url": "https://github.com/VS-work/angular2-offline.git"
   },
-  "author": "joaogarin <github@joaogarin.com>",
+  "author": "Vyacheslav Chub <vyacheslav.chub@valor-software.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/joaogarin/angular2-electron/issues"
-  },
   "homepage": "",
   "dependencies": {
     "@angular/http": "2.0.0-rc.4",
